@@ -23,7 +23,6 @@ dependencies:
 - base >= 4.7 && < 5
 - HDBC
 - HDBC-odbc
-- odbc
 
 library:
   source-dirs: src
